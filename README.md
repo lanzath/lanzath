@@ -26,6 +26,7 @@ I'm open to opportunities. :]
 if(sad) {
   getCoffee();
   beAwesome();
+  !sad;
 }
 
 keepCoding();
