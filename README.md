@@ -12,13 +12,13 @@
 </p>
 
 ## Welcome to my Repository :)
-This place is my shrine, so is where I can share my code and keep a constant learning rhythm
+:octocat: This is my shrine, so it's where I can share my code and keep a constant learning rhythm
 
-I'm still a Jr Developer who's fascinated by back-end world..
+:computer: I'm a Jr Developer who's fascinated by back-end world..
 
-I want to improve my skills in PHP, Laravel Framework and Node.JS and be as good as I can as professional and person!
+:metal: I want always to improve my skills in PHP, Laravel Framework and Node.JS and be as good as I can as professional and person!
 
-I'm open to opportunities. :]
+:briefcase: I'm open to opportunities. :]
 
 
 ```js
