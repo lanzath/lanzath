@@ -16,7 +16,7 @@
 
 :computer: I'm a Jr Developer working with back-end.
 
-:metal: I'm constantly looking for best ways to improve my skills on the best of technology!
+:metal:&nbsp; I'm constantly looking for best ways to improve my skills on the best of technology!
 
 :briefcase: Working as PHP/Laravel Developer. :]
 
