@@ -12,13 +12,13 @@
 </p>
 
 ## Welcome to my Github :)
-:octocat: This place is where I share my code and do my best to contribute to github community.
+:octocat: Here I'll share my code and do my best to contribute to coders community.
 
-:computer: I'm a Jr Developer who's fascinated by back-end world..
+:computer: I'm a Jr Developer working with back-end.
 
-:metal: I want always to improve my skills in PHP, Laravel Framework and Node.JS and be as good as I can as professional and person!
+:metal: I'm constantly looking for best ways to improve my skills on the best of technology!
 
-:briefcase: Working as Laravel Developer. :]
+:briefcase: Working as PHP/Laravel Developer. :]
 
 
 ```js
