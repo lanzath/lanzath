@@ -1,7 +1,7 @@
 # Hello There :metal:
 
 <h1 align="center"> 
-  Thiago Lanza | Back-end Developer
+  Thiago Lanza | Fullstack Developer
 </h1>
 
 <p align="center">  
@@ -12,22 +12,22 @@
 </p>
 
 ## Welcome to my Github :)
-:octocat: Here I'll share my code and do my best to contribute to coders community.
+:octocat: Here I'll share my code and projects.
 
-:computer: I'm a Jr Developer working with back-end.
+:computer: I'm a fullstack Developer, back-end lover.
 
 :metal:&nbsp; I'm constantly looking for best ways to improve my skills on the best of technology!
 
-:briefcase: Working as PHP/Laravel Developer. :]
+:briefcase: Currently working with PHP/Laravel, Angular, VueJs. :]
 
 
 ```js
 // Life's motivation
-if(sad) {
+if (sad) {
   getCoffee();
-  beAwesome();
+  code();
   sad = false;
 }
 
-keepCoding();
+neverStopLearning();
 ```
