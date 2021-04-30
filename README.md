@@ -5,13 +5,14 @@
 </h1>
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/-Javascript-yellow" alt="Javascript">
   <img src="https://img.shields.io/badge/-NodeJS-brightgreen" alt"Node.JS">   
   <img src="https://img.shields.io/badge/-PHP-blue" alt"PHP">
-  <img src="https://img.shields.io/badge/-Laravel-orange" alt"Laravel"> 
+  <img src="https://img.shields.io/badge/-Laravel-orange" alt"Laravel">
+  <img src="https://img.shields.io/badge/-Angular-red" alt"Laravel">
+  <img src="https://img.shields.io/badge/-VueJS-green" alt"Laravel">
 </p>
 
-## Welcome to my Github :)
+## Welcome to my Github :]
 :octocat: Here I'll share my code and projects.
 
 :computer: I'm a fullstack Developer, back-end lover.
