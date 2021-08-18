@@ -1,34 +1,21 @@
-# Hello There :metal:
+# Thiago Lanza
 
-<h1 align="center"> 
-  Thiago Lanza | Fullstack Developer
-</h1>
+### Languages
 
-<p align="center">  
-  <img src="https://img.shields.io/badge/-NodeJS-brightgreen" alt"Node.JS">   
-  <img src="https://img.shields.io/badge/-PHP-blue" alt"PHP">
-  <img src="https://img.shields.io/badge/-Laravel-orange" alt"Laravel">
-  <img src="https://img.shields.io/badge/-Angular-red" alt"Laravel">
-  <img src="https://img.shields.io/badge/-VueJS-green" alt"Laravel">
-</p>
-
-## Welcome to my Github :]
-:octocat: Here I'll share my code and projects.
-
-:computer: I'm a fullstack Developer, back-end lover.
-
-:metal:&nbsp; I'm constantly looking for best ways to improve my skills on the best of technology!
-
-:briefcase: Currently working with PHP/Laravel, Angular, VueJs. :]
+ ![JavaScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
+ 
+### Technologies
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=bbb) ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel) ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=red) ![Vue](https://img.shields.io/badge/-VueJs-000?&logo=vue.js)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  ![TensorFlow](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
 
 
-```js
-// Life's motivation
-if (sad) {
-  getCoffee();
-  code();
-  sad = false;
-}
 
-neverStopLearning();
-```
+## About me :]
+:computer: Fullstack Developer.
+
+:metal:&nbsp; In a never ending search for knowledge and experience!
+
+## 
+<a href="https://www.adamalston.com/">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=lanzath&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=eee&icon_color=ddd&&theme=tokyonight" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzath&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=eee&icon_color=ddd&theme=tokyonight" />
+</a>
