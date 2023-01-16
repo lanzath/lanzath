@@ -28,12 +28,6 @@
 
  ##
  
-<div>
-  <a href="https://github.com/lanzath">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanzath&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzath&hide=html,css,scss,handlebars,hack,nunjucks,blade&hide_title=false&hide_border=true&layout=compact&langs_count=5&theme=tokyonight" />
-  </a>
-</div>
 
 ##
 
